@@ -22,17 +22,17 @@ let questions = [
     answer: 0
   },
 
-  {
-    question: 'Which one of the following sedimentary basin is related to extension?',
-    options: ['Half-graben', 'Foredeep', 'fore-arc', 'piggyback'],
-    answer: 0
-  },
+//   {
+//     question: 'Which one of the following sedimentary basin is related to extension?',
+//     options: ['Half-graben', 'Foredeep', 'fore-arc', 'piggyback'],
+//     answer: 0
+//   },
 
-  {
-    question: 'In seismic session, paraconformity is marked by?',
-    options: ['onlap', 'downlap', 'erosional-truncation', 'concordance'],
-    answer: 3
-  },
+//   {
+//     question: 'In seismic session, paraconformity is marked by?',
+//     options: ['onlap', 'downlap', 'erosional-truncation', 'concordance'],
+//     answer: 3
+//   },
 
   {
     question: 'To use flexbox we define a container as a flexbox. What is the CSS to do this?',
@@ -86,11 +86,11 @@ let questions = [
     answer: 3 
   },
 
-  {
-    question: 'In which one of the following configurations are the electrodes uniformly spaced?',
-    options: ['Schlumberger array', 'Pole-Dipole array', ' Wenner array', 'Pole-pole array'],
-    answer: 2
-  },
+//   {
+//     question: 'In which one of the following configurations are the electrodes uniformly spaced?',
+//     options: ['Schlumberger array', 'Pole-Dipole array', ' Wenner array', 'Pole-pole array'],
+//     answer: 2
+//   },
 
   {
     question: 'In triclinic crystal system, the three crystallographic axes a,b,c are of?',
@@ -122,8 +122,8 @@ let questions = [
 
   {
     question: 'Which of the following logging methods is NOT used to determine porosity?',
-    options: ['Sonic', 'SP', 'Neutron', 'Gamma-gamma'],
-    answer: 1
+    options: ['Sonic', 'Gamma-gamma', 'Neutron', 'SP'],
+    answer: 3
   },
 
   {
@@ -143,16 +143,16 @@ let questions = [
     answer: 1
   },
 
-  {
-    question: 'Identify the CORRECT sequence of the electromagnetic waves in their increasing frequency',
-    options: [
-      'Radiowave, microwave, infrared, visible, ultra violet, X-ray', 
-      'Radiowave, infrared, microwave, visible, ultra violet, X-ray', 
-      'Radiowave, microwave, X-ray, infrared, visible, ultra violet ', 
-      'infrared, Radiowave, microwave, ultra violet, visible, X-ray'
-    ],
-    answer: 0
-  }
+//   {
+//     question: 'Identify the CORRECT sequence of the electromagnetic waves in their increasing frequency',
+//     options: [
+//       'Radiowave, microwave, infrared, visible, ultra violet, X-ray', 
+//       'Radiowave, infrared, microwave, visible, ultra violet, X-ray', 
+//       'Radiowave, microwave, X-ray, infrared, visible, ultra violet ', 
+//       'infrared, Radiowave, microwave, ultra violet, visible, X-ray'
+//     ],
+//     answer: 0
+//   }
 ]    
 
 // constants
